@@ -53,3 +53,21 @@ Sensor Data → Dataset → AutoAI Training → Model Deployment → Prediction 
 ## Author
 
 Bootcamp Project Submission
+# Smart Energy Saver using TinyML and IBM watsonx
+
+Author: Naved Sayed
+Team: Code Bliss
+College: Vasantdada Patil Pratishthan College of Engineering and Visual Arts
+
+Model: Decision Tree Classifier
+Platform: IBM watsonx AutoAI
+
+Inputs:
+- motion
+- light_level
+- time_of_day
+
+Output:
+- occupied
+
+Deployment: IBM Cloud
