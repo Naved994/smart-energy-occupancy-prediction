@@ -52,8 +52,6 @@ Sensor Data → Dataset → AutoAI Training → Model Deployment → Prediction 
 
 ## Author
 
-Bootcamp Project Submission
-# Smart Energy Saver using TinyML and IBM watsonx
 
 Author: Naved Sayed
 Team: Code Bliss
